@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/StefaniaJ/react-ex/static/css/main.c8746b23.chunk.css",
+    "main.js": "/StefaniaJ/react-ex/static/js/main.55d05857.chunk.js",
+    "main.js.map": "/StefaniaJ/react-ex/static/js/main.55d05857.chunk.js.map",
+    "runtime-main.js": "/StefaniaJ/react-ex/static/js/runtime-main.81ce44fd.js",
+    "runtime-main.js.map": "/StefaniaJ/react-ex/static/js/runtime-main.81ce44fd.js.map",
+    "static/js/2.babb6a4c.chunk.js": "/StefaniaJ/react-ex/static/js/2.babb6a4c.chunk.js",
+    "static/js/2.babb6a4c.chunk.js.map": "/StefaniaJ/react-ex/static/js/2.babb6a4c.chunk.js.map",
+    "index.html": "/StefaniaJ/react-ex/index.html",
+    "precache-manifest.568f89fea1f53fd679688fb4fb9389ac.js": "/StefaniaJ/react-ex/precache-manifest.568f89fea1f53fd679688fb4fb9389ac.js",
+    "service-worker.js": "/StefaniaJ/react-ex/service-worker.js",
+    "static/css/main.c8746b23.chunk.css.map": "/StefaniaJ/react-ex/static/css/main.c8746b23.chunk.css.map",
+    "static/media/logo.svg": "/StefaniaJ/react-ex/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81ce44fd.js",
+    "static/js/2.babb6a4c.chunk.js",
+    "static/css/main.c8746b23.chunk.css",
+    "static/js/main.55d05857.chunk.js"
+  ]
+}
